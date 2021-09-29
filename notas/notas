@@ -26,3 +26,23 @@ sintaxis{
  
 
 }
+
+selectores de atributos {
+
+
+    sintaxis 
+    [atrr]{
+        
+    } atri
+
+    html // div data-type> Tomate <div
+
+    [data-type]{
+        color:green 
+    
+      
+    }
+    
+    
+
+}
