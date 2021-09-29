@@ -1,0 +1,28 @@
+cascadas = prioridades {
+
+    sí tenemos una primera "llamada a un elemento de html" desde css y la primera   
+}
+
+lo que hay que tener en cuenta {
+
+    * todos los objetos son cajas 
+    
+    * Funciona a través de selectores
+    
+    *los objetos (elementos HTML) son modificados con propiedades (ejemplo de una propiedad: "background-color")
+    
+    * Hay propiedades/selectores incompatibles con algunas navegadores 
+    
+    * Algunas propiedades se heredan de padres e hijos y otras no 
+
+
+}
+
+
+Recursos y herramientas {Codrops}
+
+
+sintaxis{
+ 
+
+}
